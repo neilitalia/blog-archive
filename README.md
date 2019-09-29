@@ -1,3 +1,7 @@
+ # Gatsby Test Blog
+ 
+ This repo is for testing AWS's Cloud9 integration with Node.js and Gatsby hosting a static blog site and live-editing directly in the cloud! AWSome!
+ 
  # Hello Friend
 
 ![Hello Friend](https://github.com/panr/hugo-theme-hello-friend/blob/master/images/screenshot.png?raw=true)
